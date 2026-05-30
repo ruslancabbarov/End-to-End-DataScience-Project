@@ -1,5 +1,10 @@
  Credit Card Fraud Detection System
 
+## 📓 Notebook
+
+| Notebook | Link |
+|----------|------|
+| Credit Risk Fraud Detection | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruslancabbarov/End-to-End-DataScience-Project/blob/main/Credit_Risk_Fraud_Detection.ipynb) |
 
   Project OverviewThis project is an end-to-end Machine Learning solution designed to detect fraudulent credit card transactions in real-time. It transitions from deep data analysis and model optimization to a production-ready REST API.
  
